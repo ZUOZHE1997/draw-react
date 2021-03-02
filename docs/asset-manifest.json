@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "./draw-react/static/css/main.ffe20c12.chunk.css",
+    "main.js": "./draw-react/static/js/main.65635fa6.chunk.js",
+    "main.js.map": "./draw-react/static/js/main.65635fa6.chunk.js.map",
+    "runtime-main.js": "./draw-react/static/js/runtime-main.3979b430.js",
+    "runtime-main.js.map": "./draw-react/static/js/runtime-main.3979b430.js.map",
+    "static/js/2.aea8b0c0.chunk.js": "./draw-react/static/js/2.aea8b0c0.chunk.js",
+    "static/js/2.aea8b0c0.chunk.js.map": "./draw-react/static/js/2.aea8b0c0.chunk.js.map",
+    "index.html": "./draw-react/index.html",
+    "static/css/main.ffe20c12.chunk.css.map": "./draw-react/static/css/main.ffe20c12.chunk.css.map",
+    "static/js/2.aea8b0c0.chunk.js.LICENSE.txt": "./draw-react/static/js/2.aea8b0c0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3979b430.js",
+    "static/js/2.aea8b0c0.chunk.js",
+    "static/css/main.ffe20c12.chunk.css",
+    "static/js/main.65635fa6.chunk.js"
+  ]
+}
